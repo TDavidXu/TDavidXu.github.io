@@ -4,4 +4,5 @@ theme: jekyll-theme-hacker
 
 github:
   zip_url: http://example.com/download.zip
+  repository_url: http://example.com/download.zip
   another_url: another value
