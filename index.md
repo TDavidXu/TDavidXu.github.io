@@ -16,7 +16,7 @@
 ### 毫无常识不胜任，&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ### 这样也能当总监。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
-### &emsp;&emsp关于David徐的两大罪状，详细描述如下：
+### &emsp;&emsp;关于David徐的两大罪状，详细描述如下：
 
 ##  开发联调环境没管好，无备份，数据库节点丢失，几百人工作被阻塞；重建数据库时竟然无端引入不一致风险却不带来任何好处, 2019年5月起的各种开发环境的DI行为与线上不一致问题很可能就是Davidxu挖的坑
 
