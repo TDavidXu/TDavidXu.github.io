@@ -1,6 +1,6 @@
 **兵🐻一个，将🐻🐻一窝，现在AMS PTP坑这么多，就是Davidxu当年挖下的！详述某一线互联网大厂总监Davidxu的众多罪状中的2个（时间宝贵不想写太多）**
 # ToC思维做ToB，Davidxu妙计安天下，降低效能他最强
-##       罪状一&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;罪状二
+##       罪状一&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;罪状二
 ### 环境管理未尽责，&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;库表变更出多门，
 ### 半年没有责任人。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;环境差异不可免，
 ### 效能中心不监管，&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;强行上马用原型，
